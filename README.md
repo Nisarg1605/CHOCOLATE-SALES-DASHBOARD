@@ -16,14 +16,6 @@ It provides insights into sales by **country, salesperson, and shipment metrics*
 - **Excel dataset** for raw data  
 - **Data Wrangling & EDA** for cleaning and preparing sales data  
 
-## 📂 Repository Structure
-
-📁 chocolate-sales-dashboard
-┣ 📜 README.md
-┣ 📊 Chocolate_Sales.pdf # Dashboard report (exported from Tableau)
-┣ 📊 chocolate_sales_data.xlsx # Sample dataset
-
-
 ## 🚀 Insights
 - Identified **top-performing sales regions** and **key salespersons**.
 - Detected areas with **lower shipments**, supporting targeted business strategies.
